@@ -29,3 +29,30 @@ Langkah 4 : Visualisasi Keterkaitan Data
 
 
 ![image](https://github.com/MuhammadRizkiRamadhanPurba/Analisis-Data-Toko-Sepatu/assets/167231249/2c07d95e-fbf0-4e61-b31f-28170e74b95c)
+
+
+![image](https://github.com/MuhammadRizkiRamadhanPurba/Analisis-Data-Toko-Sepatu/assets/167231249/c7821288-d11b-4b0c-9190-ca000c538a0f)
+
+
+![image](https://github.com/MuhammadRizkiRamadhanPurba/Analisis-Data-Toko-Sepatu/assets/167231249/221fd043-1aed-4ded-9c50-26fb575558d9)
+
+
+![image](https://github.com/MuhammadRizkiRamadhanPurba/Analisis-Data-Toko-Sepatu/assets/167231249/164105a8-6807-4a00-bcd6-ff324167d31c)
+
+
+![image](https://github.com/MuhammadRizkiRamadhanPurba/Analisis-Data-Toko-Sepatu/assets/167231249/fc0b2b35-a625-4fb7-9345-013dc3c12540)
+
+
+![image](https://github.com/MuhammadRizkiRamadhanPurba/Analisis-Data-Toko-Sepatu/assets/167231249/eb541a39-6e81-45b2-93f2-6d1b2496ab46)
+
+
+![image](https://github.com/MuhammadRizkiRamadhanPurba/Analisis-Data-Toko-Sepatu/assets/167231249/d3f87886-de1a-4a01-9115-02c40a77ca0e)
+
+
+![image](https://github.com/MuhammadRizkiRamadhanPurba/Analisis-Data-Toko-Sepatu/assets/167231249/2f697b51-afa2-4f53-bd1a-74fed4a9ea9f)
+
+
+![image](https://github.com/MuhammadRizkiRamadhanPurba/Analisis-Data-Toko-Sepatu/assets/167231249/510cf160-f54e-4592-9862-7be540c9cdd9)
+
+
+![image](https://github.com/MuhammadRizkiRamadhanPurba/Analisis-Data-Toko-Sepatu/assets/167231249/269b376d-37cf-4d58-8676-73c850440d76)
