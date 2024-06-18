@@ -13,7 +13,7 @@ Berikut ini adalah contoh data yang saya gunakan untuk menganalisis
 
 Langkah 2 : Membuat Visualisasi
 
-Setelah memperoleh data diatas, dilanjutkan membuat visualisasi data menggunakan Python, Visualisasi data yang saya tampilkan terdiri dari line, histogram, heatmap, dan scatter chart.
+Setelah memperoleh data diatas, dilanjutkan membuat visualisasi data menggunakan Python, Visualisasi data yang saya tampilkan terdiri dari histogram, line chart, heatmap, dan scatter chart.
 
 Langkah 3 : Analisis Statistik
 
