@@ -3,4 +3,4 @@
 Berikut ini adalah contoh data yang saya gunakan untuk menganalisis
 
 
-![image](https://github.com/MuhammadRizkiRamadhanPurba/Analisis-Data-Toko-Sepatu/assets/167231249/c10ad1eb-7339-4060-8e4f-07c2f9e55f53)
+![image](https://github.com/MuhammadRizkiRamadhanPurba/Analisis-Data-Toko-Sepatu/assets/167231249/56293978-5b65-4a5a-9ec5-6c5e72711b56)
