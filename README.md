@@ -1,4 +1,4 @@
-# Analisis-Data-Toko-Sepatu
+# Analisis-Data-Arus-Kas
 
 Berikut ini adalah contoh data yang saya gunakan untuk menganalisis
 
