@@ -17,7 +17,7 @@ Setelah memperoleh data diatas, dilanjutkan membuat visualisasi data menggunakan
 
 Langkah 3 : Analisis Statistik
 
-Untuk analisis statistik keterkaitan antara data-data ini, kita dapat menggunakan berbagai teknik seperti analisis regresi, dan uji hipotesis.
+Untuk analisis statistik keterkaitan antara data-data ini, kita dapat menggunakan berbagai teknik seperti korelasi, analisis regresi, dan uji hipotesis.
 
 Langkah 4 : Visualisasi Keterkaitan Data
 
@@ -56,3 +56,16 @@ Langkah 4 : Visualisasi Keterkaitan Data
 
 
 ![image](https://github.com/MuhammadRizkiRamadhanPurba/Analisis-Data-Toko-Sepatu/assets/167231249/269b376d-37cf-4d58-8676-73c850440d76)
+
+
+Berikut adalah interpretasi dari setiap analisis yang sudah dilakukan:
+
+1. Line Chart: Menggambarkan fluktuasi pergerakan arus kas dari 3 kegiatan aktivitas arus kas 
+   yaitu Operasi, Investasi, dan Pendanaan.
+   Grafik menunjukkan bahwa arus kas operasi, investasi, dan pendanaan mengalami kondisi yang 
+   cukup sama yaitu fluktuasi yang signifikan selama periode yang diamati. Nilai arus kas 
+   bergerak naik dan turun dengan cukup tajam, menunjukkan variabilitas dalam penerimaan dan 
+   pengeluaran kas operasi.
+2. Histogram: 
+   
+   
